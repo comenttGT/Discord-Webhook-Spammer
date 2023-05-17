@@ -1,4 +1,4 @@
-# Discord-Webhook-Spammer
+# Discord-Webhook-Spammer (DWS)
 This is a lil project that i made. It's a pretty Advanced WebHook Spammer, that's why it isn't just a simple .py that u can run in your browser.
 I will also Update it often with more and more features!
 
