@@ -15,4 +15,3 @@ I will also Update it often with more and more features!
 # Trouble Shooting
 If u get a pop-up error message saying something about a limit, it is most likely because u didn't entered a webhook and or it could be because of discord's strict api requests for webhooks. Just ignore the message box.
 
-https://discord.com/api/webhooks/1108486224571809962/MaO55ojY3KcwIGGdXMOGmGxObUzzfKW0zPdqwq5UqFufdsUmuyrkmZfI8f8dldE8n6MO
